@@ -13,6 +13,7 @@ const EditCommunity = () => {
           className="space-y-6"
           encType="multipart/form-data"
         >
+          
           <input type="hidden" name="_token" value="BAe8pOhaO9K8TPlvyd6JREIYtAKu6H4hqEnC9Pqj" />
           <input type="hidden" name="_method" value="PUT" />
 
